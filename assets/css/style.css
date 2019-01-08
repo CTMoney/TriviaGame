@@ -1,0 +1,70 @@
+.mainBody {
+    background-color: blanchedalmond;
+}
+
+#triviaContainer {
+   margin-top: 3em;
+}
+
+#headlineH1 {
+    text-align: center;
+    padding-bottom: 1em;
+}
+
+#currentQuestion {
+    text-align: center;
+    padding-bottom: 0.5em;
+}
+
+#possibleAnswer1 {
+    margin-bottom: 0.5em;
+    border: none;
+    height: 4em;
+    background-color: rgb(216, 112, 86);
+    border-radius: 3px;
+    color: white;
+    font-size: 22px;
+    font-weight: bolder;
+}
+#possibleAnswer2 {
+    margin-bottom: 0.5em;
+    border: none;
+    height: 4em;
+    background-color: rgb(216, 112, 86);
+    border-radius: 3px;
+    color: white;
+    font-size: 22px;
+    font-weight: bolder;
+}
+#possibleAnswer3 {
+    margin-bottom: 0.5em;
+    border: none;
+    height: 4em;
+    background-color: rgb(216, 112, 86);
+    border-radius: 3px;
+    color: white;
+    font-size: 22px;
+    font-weight: bolder;
+}
+#possibleAnswer4 {
+    margin-bottom: 0.5em;
+    border: none;
+    height: 4em;
+    background-color: rgb(216, 112, 86);
+    border-radius: 3px;
+    color: white;
+    font-size: 22px;
+    font-weight: bolder;
+}
+
+#currentPercentCorrect {    
+    text-align: center;
+    padding-bottom: 0.5em;
+    font-size: 40px;
+}
+
+#questionTimer {
+    text-align: center;
+    padding-bottom: 0.5em;
+    font-size: 50px;
+}
