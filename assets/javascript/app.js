@@ -254,7 +254,6 @@ document.addEventListener("DOMContentLoaded", function start(event) {
     });
 
 });
-    //create function that will randomly choose between appending and prepending as child of  current question child I think is pretty good idea tbh but overall not so great that I spent 3 hours working on this hw assignment in total.. if that
 
 
 
